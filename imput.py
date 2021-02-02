@@ -7,6 +7,6 @@ print("Hello" , name, ", how are you?")
 
 age = input("how old are you?")
 
-a = input("wow thats great"
+a = input("wow thats great")
 
 
