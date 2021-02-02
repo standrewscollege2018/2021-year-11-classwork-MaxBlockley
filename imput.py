@@ -7,4 +7,6 @@ print("Hello" , name, ", how are you?")
 
 age = input("how old are you?")
 
-print("your name is"
+a = input("wow thats great"
+
+
